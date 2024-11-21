@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba19955bcace554baca066ea280429b, type: 3}
+  m_Name: TutoMon
+  m_EditorClassIdentifier: 
+  initialState: 0
+  hp: 1
+  speed: 7
+  power: 40
+  attackInterval: 1
+  expPrefab: {fileID: 8713528647895313533, guid: e74f1743be24e0f48b8b7c4daeae96eb, type: 3}
+  goldPrefab: {fileID: 7168909497067210344, guid: 0af699f1c8548f7498c795043b7df5a8, type: 3}
